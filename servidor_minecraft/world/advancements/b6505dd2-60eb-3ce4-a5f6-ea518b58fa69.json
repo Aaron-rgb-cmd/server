@@ -1,0 +1,483 @@
+{
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2026-03-09 14:44:50 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-03-09 14:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-03-09 14:44:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-03-09 14:44:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-03-09 14:44:50 +0000"
+    },
+    "done": true
+  },
+  "dawnera:the_dawn_era": {
+    "criteria": {
+      "join_game": "2026-03-09 14:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2026-03-09 19:54:47 +0000",
+      "minecraft:river": "2026-03-09 19:54:10 +0000",
+      "minecraft:snowy_plains": "2026-03-09 14:44:51 +0000",
+      "minecraft:meadow": "2026-03-09 19:55:11 +0000",
+      "minecraft:plains": "2026-03-09 14:45:59 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2026-03-09 14:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-03-09 14:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2026-03-09 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2026-03-09 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-03-09 19:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "dawnera:recipes/food/caviar_sandwich": {
+    "criteria": {
+      "has_bread": "2026-03-09 19:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-03-09 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-03-09 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2026-03-09 19:56:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "dawnera:recipes/transportation/ceratosaurus_saddle": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2026-03-09 19:55:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "dawnera:recipes/food/psittaco": {
+    "criteria": {
+      "has_wheat": "2026-03-09 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "dawnera:recipes/transportation/diabloceratops_saddle": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-03-09 19:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2026-03-09 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "dawnera:recipes/transportation/tyrannosaurus_saddle": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_egg": {
+    "criteria": {
+      "has_wheat": "2026-03-09 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2026-03-09 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/incognito_mask": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2026-03-09 19:55:58 +0000",
+      "fir_clearing": "2026-03-09 19:57:51 +0000"
+    },
+    "done": false
+  },
+  "dawnera:recipes/transportation/triceratops_saddle": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-03-09 19:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2026-03-09 19:53:47 +0000",
+      "bread": "2026-03-09 19:58:02 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-03-09 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2026-03-09 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
